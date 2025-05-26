@@ -26,7 +26,7 @@ module.exports.handleEvent = async function({ api, event }) {
   const content = body?.toLowerCase();
 
   if (content && targetWords.some(word => content.includes(word.toLowerCase()))) {
-    return api.sendMessage("زووجيي يونوو⁦(⁠◕⁠ᴗ⁠◕⁠✿⁠)⁩", threadID, messageID);
+    return api.sendMessage(" لا تنادي عليه هو مش فاضي لك 😒"), threadID, messageID);
   }
 };
 
