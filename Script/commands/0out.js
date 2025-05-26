@@ -1,11 +1,11 @@
 module.exports.config = {
-    name: "out",
+    name: "غادر",
     version: "1.0.0",
     hasPermssion: 2,
-    credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
-    description: "",
-    commandCategory: "Admin",
-    usages: "out [id]",
+    credits: "يونو",
+    description: "مالك دخل😗",
+    commandCategory: "ادمن",
+    usages: "غادر [ايدي]",
     cooldowns: 10,
 };
 
